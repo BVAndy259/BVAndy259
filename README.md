@@ -16,7 +16,7 @@ Bienvenido/a a mi perfil. Aquí comparto proyectos personales y de aprendizaje r
 - [crudClientes](https://github.com/BVAndy259/crudClientes) — CRUD de clientes (C#).
 
 ## Más proyectos
-- https://github.com/BVAndy259?tab=repositories
+- [Ver todos los repositorios](https://github.com/BVAndy259?tab=repositories)
 
 ## Contacto
-- GitHub: https://github.com/BVAndy259
+- GitHub: [BVAndy259](https://github.com/BVAndy259)
