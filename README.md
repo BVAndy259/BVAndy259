@@ -9,8 +9,8 @@ Bienvenido/a a mi perfil. Aquí comparto proyectos personales y de aprendizaje r
 
 ## Proyectos destacados
 - [Digit-Detection](https://github.com/BVAndy259/Digit-Detection) — Detección de dígitos escritos a mano (Jupyter Notebook).
-- [fullstack-final-project](https://github.com/BVAndy259/fullstack-final-project) — Proyecto final full-stack (JavaScript).
-- [fullstack-seminario](https://github.com/BVAndy259/fullstack-seminario) — Proyecto full-stack (JavaScript).
+- [fullstack-final-project](https://github.com/BVAndy259/fullstack-final-project) — Proyecto final full-stack con enfoque en integración frontend/backend (JavaScript).
+- [fullstack-seminario](https://github.com/BVAndy259/fullstack-seminario) — Ejercicios y prácticas del seminario full-stack (JavaScript).
 - [EcolimApp](https://github.com/BVAndy259/EcolimApp) — App Android (Java).
 - [PrimerAppAndroid](https://github.com/BVAndy259/PrimerAppAndroid) — Primera app Android (Java).
 - [crudClientes](https://github.com/BVAndy259/crudClientes) — CRUD de clientes (C#).
