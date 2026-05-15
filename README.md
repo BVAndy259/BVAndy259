@@ -20,5 +20,3 @@ Bienvenido/a a mi perfil. Aquí comparto proyectos personales y de aprendizaje r
 
 ## Contacto
 - GitHub: https://github.com/BVAndy259
-- LinkedIn: (agrega tu enlace)
-- Email: (agrega tu correo)
